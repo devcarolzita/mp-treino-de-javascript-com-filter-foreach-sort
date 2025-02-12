@@ -7,8 +7,8 @@ export const products = [
     rating: 5,
     reviews: 6,
     description: "O novíssimo sistema de câmera é muito versátil de perto ou de longe. Câmera de 48 MP",
-    srcImg: "./assets/iphone16.png",
-    backImg: "./assets/backIphone.png"
+    srcImg: "./assets/celulares/iphone16.png",
+    backImg: "./assets/celulares/backIphone.png"
   },
   {
     name: "Samsung Z",
