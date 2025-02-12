@@ -1,6 +1,6 @@
 # Treino de javascript com filter, forEach e sort
 
-Neste mini projeto, você criará uma galeria de produtos em uma página web. Cada produto terá uma imagem que muda ao passar o mouse por cima, com base em dados provenientes de um arquivo data.js. Esse exercício é uma ótima oportunidade para melhorar suas habilidades com manipulação de DOM e eventos em JavaScript, além de praticar a criação de uma interface visual simples e interativa usando apenas HTML, CSS e JavaScript.
+Neste mini projeto, você criará uma galeria de produtos em uma página web. Cada produto tem como base  dados provenientes de um arquivo data.js. Esse exercício é uma ótima oportunidade para melhorar suas habilidades com manipulação de DOM e eventos em JavaScript, além de praticar a criação de uma interface visual simples e interativa usando apenas HTML, CSS e JavaScript.
 
 ## 🤓 Antes de começar
 
@@ -21,7 +21,7 @@ E crie o seguinte arquivo:
 ## Requisito 1: Renderização de Produtos com Imagens
 No arquivo `index.html`, implemente a renderização dos produtos utilizando a DOM e adicione as imagens com as propriedades definidas no arquivo `data.js`.A partir dos dados presentes no array de produtos em `data.js`. Para cada produto, insira uma tag `<img>` com a classe `imageProduct`, configurando o atributo src com o valor de srcImg de cada objeto no array.
 
-[!TIP] 👀 Dicas:
+  👀 Dicas:
 Use o método forEach para iterar sobre os produtos.
 
 ## Requisito 2: Ordenação dos Produtos por Preço e Avaliação
@@ -48,7 +48,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Figma
 
-🔗 [Link do design](https://www.figma.com/community/file/1458939050939229153)
+🔗 [Link do design](https://www.figma.com/community/file/1446265657290370041)
 
 ## 👉🏽 Sobre esse mini-projeto
 
@@ -59,7 +59,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 - Uso de eventos como mouseover e mouseout
 - Interação dinâmica com os dados (exibição de imagens e informações)
 - Uso de funções de manipulação de arrays (Filter, ForEach e Sort)
-  
+
 ### CSS
 - Estilização simples com CSS para criar um layout agradável e responsivo
 - Animações e transições para melhorar a interação com o usuário
